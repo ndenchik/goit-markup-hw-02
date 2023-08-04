@@ -144,6 +144,10 @@ address{
     background-color: var(--btn-bgd);
 }
 
+.team-list-item{
+    background-color: var(--backgroud-color);
+}
+
 .team-image {
      background-color: var(--backgroud-color);
 }
